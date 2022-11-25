@@ -8,9 +8,9 @@ import random
 list = []
 converter = []
 
-API_ID = 19961504
-API_HASH = '28de3a8f4b68b388bfe47bf84d1b124b'
-Token = '5604529921:AAHS2u0P4V4hsyXpb1Scbaxv20Yeaws7e3k' #token del bot
+API_ID = 15472343
+API_HASH = '6817c82fe0b762ed91999f49cd17f7d7'
+Token = '5816370877:AAEaU-ygzpXSvpkJbXbUM1VYiXdh-X-mvjI' #token del bot
 
 bot = Client('session', api_id=API_ID, api_hash=API_HASH, bot_token=Token)
 
